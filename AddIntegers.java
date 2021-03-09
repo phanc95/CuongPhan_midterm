@@ -4,7 +4,7 @@ public class AddIntegers {
 
         int first = 5;
         int second = 5;
-        int third = 124521;
+        int third = 1;
 
         System.out.println("Enter two numbers: " + first + " " + second + " " +third);
         int sum = first + second;
