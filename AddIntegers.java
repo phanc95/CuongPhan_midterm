@@ -2,9 +2,9 @@ public class AddIntegers {
 
     public static void main(String[] args) {
 
-        int first = 150;
-        int second = 250;
-        int third = 1;
+        int first = 15;
+        int second = 25;
+        int third = 10;
 
         System.out.println("Enter two numbers: " + first + " " + second + " " +third);
         int sum = first + second;
